@@ -32,7 +32,10 @@ NetOps, DevOps, and SecOps are all relatively new methodologies in three areas�
 
 ⭕️ **I highly recommend you to study this article about [NetOps’ Evolution Into the Cloud](https://blogs.cisco.com/datacenter/netops-evolution-into-the-cloud).**
 
-
+## Fundamental Step
+- Network Concepts
+    - [Network+ CBTnuggets](https://www.cbtnuggets.com/it-training/comptia/network-plus) (English Language)
+    - [Network+](https://faradars.org/courses/fvnet9410-network-plus) (Persian Language)
 ## Step 0: Basic requirements
 - Linux (LPIC-1)
     - [LPIC-1 with Jadi](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A2%D8%B2%D9%85%D9%88%D9%86-LPIC1-mk711/) (Persian Language)
@@ -62,3 +65,15 @@ NetOps, DevOps, and SecOps are all relatively new methodologies in three areas�
     - [Jenkins Tutorial](https://github.com/ahmadalibagheri/jenkins-tutorial) (Sample Traning Code)
  
  💡 *The power of automating all your tasks from 0 to 100 gathers here!*
+ 
+## Step 3.1: Python (optional)
+💡 This step is optional, but it is highly recommended. you should know at least one high-level programming language like python. at this point should be also familiar with ansible to make your aytomation tasks even easier.
+  - [Python Tutorial](https://www.cbtnuggets.com/it-training/python/network-engineers-intro) (English Language)
+
+## Step 4: Monitoring
+- Zabbix 
+   - [Zabbix Tutorial](https://www.zabbix.com/manuals) (Strongly Recommended)
+- Solarwinds
+   - [Solarwinds Tutorial](https://documentation.solarwinds.com/) (Optional)
+ 
+ 💡 *Monitoring your network is a critical point for your infrastructure. you should be familiar with at least one network monitoring tool like zabbix.* 
