@@ -76,4 +76,10 @@ NetOps, DevOps, and SecOps are all relatively new methodologies in three areas�
 - Solarwinds
    - [Solarwinds Tutorial](https://documentation.solarwinds.com/) (Optional)
  
- 💡 *Monitoring your network is a critical point for your infrastructure. you should be familiar with at least one network monitoring tool like zabbix.* 
+ 💡 *Monitoring your network is a critical point for your infrastructure. you should be familiar with at least one network monitoring tool like zabbix.*
+ 
+ ## Step 5: Containerization
+ - Docker
+   - [Docker Tutorial](https://www.tutorialspoint.com/docker_masterclass_docker_and_swarm/index.asp) (English Language)
+ 
+💡 *As NetOps engineers we should know a containerization solution like docker, we need this to deploy our applications in micro service format. this will bring us more performance and easier management too.*
