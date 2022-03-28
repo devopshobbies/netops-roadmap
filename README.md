@@ -82,4 +82,4 @@ NetOps, DevOps, and SecOps are all relatively new methodologies in three areas�
  - Docker
    - [Docker Tutorial](https://www.tutorialspoint.com/docker_masterclass_docker_and_swarm/index.asp) (English Language)
  
-💡 *As NetOps engineers we should know a containerization solution like docker, we need this to deploy our applications in micro service format. this will bring us more performance and easier management too.*
+💡 *As NetOps engineers we should know a containerization solution like docker, we need this to deploy our applications in micro service format. this will bring us better performance and easier management too.*
