@@ -34,9 +34,9 @@ NetOps, DevOps, and SecOps are all relatively new methodologies in three areasâ€
 
 - [Fundamental Step - Essential, Basic](##fundamental-step---essential-basic)
 - [Step 0: Basic requirements - Essential, Basic](#step-0-basic-requirements---essential-basic)
-  - [Linux (LPIC-1)](#linux-lpic-1)
-  - [Bash-Script](#bash-script)
-  - [Git](#git)
+  - [Linux (LPIC-1)]
+  - [Bash-Script]
+  - [Git]
 - [Step 1: IaC (Infrastructure as Code) - Basic](#step-1-iac-infrastructure-as-code)
   - [Hashicorp Terraform (Strongly Recommended)](#hashicorp-terraform-strongly-recommended)
 - [Step 2: Configuration Managment - Basic](#step-2-configuration-managment---basic)
