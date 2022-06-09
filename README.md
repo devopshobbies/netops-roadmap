@@ -30,6 +30,32 @@ In the past, the missions of development and network teams often clashed, with d
 ### How does NetOps relate to DevOps and SecOps?
 NetOps, DevOps, and SecOps are all relatively new methodologies in three areas—networking, development, and security—involved in successful agile deployments. Ideally, NetOps, DevOps, and SecOps are interdependent and form parts of a collaborative process.
 
+### Table of Contents
+
+- [Fundamental Step - Essential, Basic](##fundamental-step---essential-basic)
+- [Step 0: Basic requirements - Essential, Basic](#step-0-basic-requirements---essential-basic)
+  - [Linux (LPIC-1)](#linux-lpic-1)
+  - [Bash-Script](#bash-script)
+  - [Git](#git)
+- [Step 1: IaC (Infrastructure as Code) - Basic](#step-1-iac-infrastructure-as-code)
+  - [Hashicorp Terraform (Strongly Recommended)](#hashicorp-terraform-strongly-recommended)
+- [Step 2: Configuration Managment - Basic](#step-2-configuration-managment---basic)
+  - [Ansible (Strongly Recommended)](#ansible-strongly-recommended)
+- [Step 3: Continuous Integration/Continuous Deployment - Basic](#step-3-continuous-integrationcontinuous-deployment---basic)
+  - [Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) (Strongly Recommended)](#jenkins-suitable-for-ci-and-cd-in-all-infrastructurefree-strongly-recommended)
+- [Step 3.1: Python (optional) - Professional](#step-31-python-optional---professional)
+  - [Kubernetes](#kubernetes)
+- [Step 4: Network Monitoring - Essential](#step-4-network-monitoring---essential)
+  - [Jenkins-X (CI/CD) (Free)](#gitops)
+  - [ArgoCD (CD) (free)](#gitops)
+- [Step 6: Monitoring (Only for NetDevOps) - Professional](#step-6-monitoring-only-for-netdevops---professional)
+  - [Prometheous + Grafana (Free)](#prometheous--grafana-free)
+  - [Telegraf + InfluxDB + Grafana (Free)](#telegraf--influxdb--grafana-free)
+  - [Datadog (Paid)](#datadog-paid)
+  - [ELK Stack (Free)](#elk-stack-free)
+  - [NewRelic (Paid)](#newrelic-paid)
+
+
 ⭕️ **I highly recommend you to study this article about [NetOps’ Evolution Into the Cloud](https://blogs.cisco.com/datacenter/netops-evolution-into-the-cloud).**
 
 ## Fundamental Step - Essential, Basic
